@@ -1,0 +1,3 @@
+ID=0364312085|Number=1|Recipient=+27565605657|Content=hello my brother its been a long time|Hash=03:1:HELLOTIME|Sent=true|Stored=false
+ID=0608003164|Number=2|Recipient=+27655805350|Content=bye bye nigga|Hash=06:2:BYENIGGA|Sent=true|Stored=false
+ID=0841696828|Number=3|Recipient=+27655304240|Content=hello again brother|Hash=08:3:HELLOBROTHER|Sent=false|Stored=true
